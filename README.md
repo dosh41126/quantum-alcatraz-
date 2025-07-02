@@ -1,7 +1,7 @@
 
 
 Quantum Alcatraz: The Ultimate AI-Driven Risk Fortress
-
+![Quantum Alcatraz](https://raw.githubusercontent.com/dosh41126/quantum-alcatraz-/refs/heads/main/alcatraz.png)
 How a Multi-Model, Rules-Based System Defends Against Chaos, Riots, and Power Failures
 
 Picture this:
